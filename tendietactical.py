@@ -89,4 +89,4 @@ async def purge(ctx, amount=100):
 
 
 
-client.run('NjExMjEyNDQ5NDQ1ODM4ODYw.XVQi2w.DurHAtCe14eIpsnNj78khYF7B7A')
+client.run(null)
